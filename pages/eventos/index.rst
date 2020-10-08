@@ -46,7 +46,11 @@ Hacktoberfest
 #############
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Llega Octubre y es hora de participar en el `Hacktoberfest <link://filename/pages/hacktoberfest.rst>`__, donde durante todo el mes, podrás contribuir a proyectos OpenSource. ¿Nunca los haz hecho?, ¿Quieres participar? Anímate!!, esta es tu oportunidad para ser parte de un evento a escala mundial. ¡¡Happy Hacking!!.
 =======
 Llega Octubre y es hora de participar en el `Hacktoberfest <link://filename/pages/hacktoberfest.rst>`__, donde durante todo el mes podrás contribuir a proyectos Open Source. ¿Nunca los haz hecho? ¿Quieres participar? Anímate! Esta es tu oportunidad para ser parte de un evento a escala mundial. ¡Happy Hacking!
 >>>>>>> 4a4fb5b541f008b30c4e05f91b16dc18195fe4a5
+=======
+Llega Octubre y es hora de participar en el `Hacktoberfest <link://filename/pages/hacktoberfest.rst>`__, donde durante todo el mes podrás contribuir a proyectos Open Source. ¿Nunca los haz hecho? ¿Quieres participar? Anímate! Esta es tu oportunidad para ser parte de un evento a escala mundial. ¡Happy Hacking!
+>>>>>>> 5a0003c2100795f0fc0befde69796a0afe9cb15c
