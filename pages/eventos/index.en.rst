@@ -1,4 +1,4 @@
-.. title: Eventos
+.. title: Event
 .. slug: index
 .. tags:
 .. category:
@@ -7,7 +7,7 @@
 .. type: text
 .. template: pagina.tmpl
 
-Estos son los tipos de eventos que se realizan en la comunidad de Python Ecuador:
+This Estos son los tipos de eventos que se realizan en la comunidad de Python Ecuador:
 
 
 Calendario de Eventos
@@ -45,8 +45,4 @@ Charlas y conferencias impartidas por la comunidad síguenos en `eventos en vivo
 Hacktoberfest
 #############
 
-<<<<<<< HEAD
 Llega Octubre y es hora de participar en el `Hacktoberfest <link://filename/pages/hacktoberfest.rst>`__, donde durante todo el mes, podrás contribuir a proyectos OpenSource. ¿Nunca los haz hecho?, ¿Quieres participar? Anímate!!, esta es tu oportunidad para ser parte de un evento a escala mundial. ¡¡Happy Hacking!!.
-=======
-Llega Octubre y es hora de participar en el `Hacktoberfest <link://filename/pages/hacktoberfest.rst>`__, donde durante todo el mes podrás contribuir a proyectos Open Source. ¿Nunca los haz hecho? ¿Quieres participar? Anímate! Esta es tu oportunidad para ser parte de un evento a escala mundial. ¡Happy Hacking!
->>>>>>> 4a4fb5b541f008b30c4e05f91b16dc18195fe4a5
